@@ -1,7 +1,7 @@
 # Virtual Mouse
-User is using his/her hand as a virtual mouse and can do everything that a mouse does without even touching your system.  
+User can use his/her hand as a virtual mouse and can do everything that a mouse does without even touching  the system.  
 
-The Virtual Mouse provides an infrastructure between the user and the system using only a camera. It allows users to interface with machines without the use of physical devices, and even control mouse functionalities.
+The Virtual Mouse provides an infrastructure between the user and the system using only a camera. It allows users to interact with machines without the use of physical devices, and even control mouse functionalities.
 
 ## How to use Virtual Mouse
 The fore finger will act as a cursor and user can move it around. Now, inorder to successfully click using hand tracking, join the fore finger and the middle finger together as it is detecting the distance between the fore finger and the middle finger.
