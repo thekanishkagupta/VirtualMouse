@@ -24,8 +24,7 @@ The mediapipe library finds 21 different landmarks on the hand as shown below.
 <img src="https://user-images.githubusercontent.com/59255776/180431283-54ba9d3c-253f-48e8-b705-367b7d9cb90c.png">
 
 
-* PyAutoGUI 
-PyAutoGUI is a Python package which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
+* PyAutoGUI is a Python package which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
 
 ## Any Queries?🤔
  
