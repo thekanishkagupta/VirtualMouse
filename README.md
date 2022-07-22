@@ -21,7 +21,8 @@ Libraries used are OpenCV, Mediapipe and PyAutoGUI.
 * Mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
 
 The mediapipe library finds 21 different landmarks on the hand as shown below.
-<img src="https://user-images.githubusercontent.com/59255776/180430835-18086ea0-8305-4c32-9347-e2751e805580.jpg" >
+<img src="https://user-images.githubusercontent.com/59255776/180431283-54ba9d3c-253f-48e8-b705-367b7d9cb90c.png">
+
 
 * PyAutoGUI 
 PyAutoGUI is a Python package which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
