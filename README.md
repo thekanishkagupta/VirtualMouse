@@ -16,14 +16,12 @@ The fore finger will act as a cursor and user can move it around. Now, inorder t
 ## Working Explained
 Libraries used are OpenCV, Mediapipe and PyAutoGUI.
 
-* OpenCV
-OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
+* OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
 
-* Mediapipe 
-Mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
+* Mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
 
-Here from the cropped image, the mediapipe library finds 21 different landmarks on the hand.
-<img src="https://user-images.githubusercontent.com/59255776/180427026-c329d8c3-d1f9-42d1-8090-c932842f633c.png" >
+The mediapipe library finds 21 different landmarks on the hand as shown below.
+<img src="https://user-images.githubusercontent.com/59255776/180430835-18086ea0-8305-4c32-9347-e2751e805580.jpg" >
 
 * PyAutoGUI 
 PyAutoGUI is a Python package which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
