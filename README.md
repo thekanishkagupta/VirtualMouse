@@ -7,7 +7,7 @@ The Virtual Mouse provides an infrastructure between the user and the system usi
 The fore finger will act as a cursor and user can move it around. Now, inorder to successfully click using hand tracking, join the fore finger and the middle finger together as it is detecting the distance between the fore finger and the middle finger.
 
 ## Screenshots
-* Open Screen
+** Open Screen
 <img src="" >
 
 *Mouse 
