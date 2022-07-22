@@ -1,5 +1,5 @@
 # Virtual Mouse
-User hand can be used as a virtual mouse and can do everything that a mouse does without even touching the system.
+User hand can be used as a virtual mouse and can do everything that a mouse does, without even touching the system.
 
 The Virtual Mouse provides an infrastructure between the user and the system using only a camera. It allows users to interact with machines without the use of physical devices, and even control mouse functionalities.
 
