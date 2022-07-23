@@ -8,11 +8,7 @@ The fore finger will act as a cursor and user can move it around. Now, inorder t
 
 ## Video Demonstration and Screenshots
 * Video Demonstration
-<video src="https://user-images.githubusercontent.com/59255776/180595272-044b9f59-0142-4c6a-9044-094235945b35.mp4" > </video>
- 
-
-https://user-images.githubusercontent.com/59255776/180595783-1db3c446-dd8a-411e-92fe-3123a0d82996.mp4
-
+<video src="https://user-images.githubusercontent.com/59255776/180596333-8e893a46-343e-4e4e-9a4a-595ce3fc9f09.mp4" > </video>
 
 * Screenshot 1
  <img src="https://user-images.githubusercontent.com/59255776/180595288-a682e59e-220c-4233-ad55-6c5e184e3b7e.png"  >
