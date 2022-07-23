@@ -6,12 +6,16 @@ The Virtual Mouse provides an infrastructure between the user and the system usi
 ## How to use Virtual Mouse
 The fore finger will act as a cursor and user can move it around. Now, inorder to successfully click using hand tracking, join the fore finger and the middle finger together as it is detecting the distance between the fore finger and the middle finger.
 
-## Screenshots
-* Open Screen
-<img src="" >
+## Video Demonstration and Screenshots
+* Video Demonstration
 
-* Mouse 
-<img src=""  >
+<img src="https://user-images.githubusercontent.com/59255776/180595272-044b9f59-0142-4c6a-9044-094235945b35.mp4" >
+
+* Screenshot 1
+<img src="https://user-images.githubusercontent.com/59255776/180595285-af8716e5-a51f-4c04-86fd-f10396f144f7.png"  >
+
+* Screenshot 2
+<img src="https://user-images.githubusercontent.com/59255776/180595288-a682e59e-220c-4233-ad55-6c5e184e3b7e.png"  >
 
 ## Working Explained
 Libraries used are OpenCV, Mediapipe and PyAutoGUI.
